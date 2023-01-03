@@ -91,7 +91,7 @@ li{
   height: 1em;
   border-radius: 50%;
   margin: 72px auto;
-  position: absolute;
+  position: sticky;
   top: 40%;
   left: 45%;
   background: transparent;
