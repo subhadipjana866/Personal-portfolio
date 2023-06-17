@@ -468,11 +468,20 @@ header.sticky .nav-bar{
 .bar .javascript::before{
   width: 80%;
 }
-.bar .python::before{
+.bar .react::before{
+  width: 90%;
+}
+.bar .node::before{
   width: 80%;
 }
-.bar .c::before{
-  width: 85%;
+.bar .express::before{
+  width: 80%;
+}
+.bar .mongo::before{
+  width: 70%;
+}
+.bar .firebase::before{
+  width: 70%;
 }
 .bar .communication::before{
   width: 90%;
@@ -485,6 +494,9 @@ header.sticky .nav-bar{
 }
 .bar .flexibility::before{
   width: 95%;
+}
+.bar .full-stack::before{
+  width: 90%;
 }
 
 .edu-list .item:hover, .bar:hover, .experience-card:hover{
