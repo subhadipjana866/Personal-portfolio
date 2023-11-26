@@ -471,6 +471,9 @@ header.sticky .nav-bar{
 .bar .react::before{
   width: 90%;
 }
+.bar .bootstrap::before{
+  width: 90%;
+}
 .bar .node::before{
   width: 80%;
 }
